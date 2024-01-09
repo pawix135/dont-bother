@@ -1,5 +1,10 @@
-# Next 14 Starter Template
+# Don't Bother
 
-Ready to use Next 14@canary template includes `tailwindcss`, `shadcn/ui`, `zod`, `prisma` and `jest`.
+A tool for Gamemasters to keep track of game, players and more.
 
-Clone with `npx create-next-app <app-name> --example https://github.com/pawix135/next14-template`
+## TODO
+
+- [ ] Create multiple games
+- [ ] Add players to games
+- [ ] Add properties to players
+- [ ] Add turns to games
